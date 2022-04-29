@@ -1,3 +1,5 @@
-public class WhatDa {
+public class WhatDa 
+{
+  public String sex;
 }
-sex
+
